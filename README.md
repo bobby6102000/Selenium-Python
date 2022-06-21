@@ -1,2 +1,2 @@
 # Selenium-Python
- Selenium Practice
+ Practive for using the selenium along with python
