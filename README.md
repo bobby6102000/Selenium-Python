@@ -1,2 +1,3 @@
 # Selenium-Python
- Practive for using the selenium along with python
+ Practice for using the selenium along with python
+ Different types of fiels are used
